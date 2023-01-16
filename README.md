@@ -1,4 +1,4 @@
-# dealing-with-exceptions-alura-course
+# dealing-with-stacks-alura-course
 
 Se executarmos esse código, obteremos o seguinte resultado:
 
